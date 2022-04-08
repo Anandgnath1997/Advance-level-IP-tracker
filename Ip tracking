@@ -14,8 +14,8 @@ printf "\e[1;32m                                    | |    \e[0m\n"
 printf "\e[1;32m                                    |_|    \e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[1;33m    Created By Anand G NATH \e[0m\e[1;31m(\e[0m\e[1;33m Hack with ethics  \e[0m\e[1;31m)\e[0m\n"
-
-}
+printf "\e[0m\e[1;33m     YouTube link https://youtube.com/channel/UCCvmFYv-BmEwQVUz4oILHWw \e[0m\e[1;31m(\e[0m\e[1;33m LIKE AND SUBSCRIBE. \e[0m\e[1;31m)\e[0m\n"
+} 
 
 menu() {
 printf "\e[0m\n"
