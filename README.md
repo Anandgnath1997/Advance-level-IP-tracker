@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anandgnath1997
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Anandgnath 
+
+git clone https://github.com/Anandgnath1997/ip-infromaction
+cd ip-infromaction
+
 
 <!---
 Anandgnath1997/Anandgnath1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
