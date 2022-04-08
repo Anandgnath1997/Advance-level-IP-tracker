@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Anandgnath 
+-my YouTube channel hack with ethics
 
+apt install git
 git clone https://github.com/Anandgnath1997/ip-infromaction
-cd ip-infromaction
+ip-infromaction.  
+bash 'Ip tracking' 
 
 
 <!---
