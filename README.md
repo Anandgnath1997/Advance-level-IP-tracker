@@ -3,7 +3,7 @@
 
 apt install git
 git clone https://github.com/Anandgnath1997/ip-infromaction
-ip-infromaction.  
+cd ip-infromaction.  
 bash 'Ip tracking' 
 
 
