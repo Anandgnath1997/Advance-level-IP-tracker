@@ -2,8 +2,8 @@
 -my YouTube channel hack with ethics
 
 apt install git
-git clone https://github.com/Anandgnath1997/ip-infromaction
-cd ip-infromaction.  
+git clone  https://github.com/Anandgnath1997/Advance-level-IP-tracker.git
+cd Advance-level-IP-tracker
 bash 'Ip tracking' 
 
 
